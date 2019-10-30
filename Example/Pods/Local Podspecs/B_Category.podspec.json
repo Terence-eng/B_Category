@@ -1,0 +1,27 @@
+{
+  "name": "B_Category",
+  "version": "0.1.0",
+  "summary": "提供组件B的api调用入口",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/weixin1/B_Category",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Terrence": "924848335@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/weixin1/B_Category",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "B_Category/Classes/**/*.{h,m}",
+  "dependencies": {
+    "CTMediator": [
+      "~> 25"
+    ]
+  }
+}
